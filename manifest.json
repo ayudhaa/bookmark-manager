@@ -1,0 +1,12 @@
+{
+  "name": "Bookmark Manager",
+  "short_name": "Bookmarks",
+  "description": "Save, organize, and access your favorite links",
+  "theme_color": "#3b82f6",
+  "background_color": "#f8fafc",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": []
+}
